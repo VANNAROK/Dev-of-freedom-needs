@@ -13,6 +13,7 @@ If you like my work and want to support what I do, feel free to donate via crypt
 
 > *Scan the QR code above using your Phantom wallet or any Solana-compatible app.*
 
-<img width="1080" height="1651" alt="ReceiveMoney_QR_2026-09-21_21 23 06" src="https://github.com/user-attachments/assets/88dd0e81-bd4b-4947-9b1e-134a085c126f" />
+<img src=<img width="1080" height="1651" alt="ReceiveMoney_QR_2026-09-21_21 23 06" src="https://github.com/user-attachments/assets/88dd0e81-bd4b-4947-9b1e-134a085c126f" />
+ width="220" alt="TrueMoney Logo"/>
 
 > *Scan the QR code above using Thai promptpay available apps for user that doesn't want to use bitcoin in Thailand*
